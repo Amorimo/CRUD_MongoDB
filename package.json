@@ -1,0 +1,23 @@
+{
+  "name": "crud_mongodb",
+  "version": "1.0.0",
+  "description": "Tutorial MongoDB",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amorimo/CRUD_MongoDB.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Matheus Amorim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Amorimo/CRUD_MongoDB.git"
+  },
+  "homepage": "https://github.com/Amorimo/CRUD_MongoDB.git",
+  "dependencies": {
+    "mongoose": "^8.12.1"
+  }
+}
